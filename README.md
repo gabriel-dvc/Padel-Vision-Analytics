@@ -1,7 +1,7 @@
 # Padel-Vision-Analytics: Technical Proof of Concept (PoC)
 
 ## Project Overview
-**Padel-Vision-Analytics** is a Technical Proof of Concept (PoC) demonstrating a high-performance computer vision pipeline for real-time sports analytics. This project showcases the integration of state-of-the-art detection and tracking algorithms to bridge the gap between raw match footage and actionable physical metrics.
+**Padel-Vision-Analytics** is a Technical Proof of Concept (PoC) demonstrating a computer vision pipeline for real-time sports analytics. This project showcases the integration of state-of-the-art detection and tracking algorithms to bridge the gap between raw match footage and actionable physical metrics.
 
 ## Technical Architecture
 - **Detection**: YOLOv8 (Ultralytics) for robust player and ball identification.
