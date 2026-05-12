@@ -1,0 +1,3 @@
+ultralytics==8.4.48
+supervision==0.28.0
+sahi==0.11.36
